@@ -31,4 +31,4 @@ To place a piece, type the row and column number of the desired location (e.g. 1
 To rotate a quadrant, type the quadrant rotation to rotate. (e.g. 1 - 1,1,cw. 2- 1,1,ccw. 3 - 2,1,cw )
 
 ## License
-The code in this repository is licensed under the MIT License. See LICENSE.md for more information.
+The code in this repository is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for more information.
